@@ -8,7 +8,9 @@
 </head>
 <body>
 
-<!-- this is second file -->
+<!-- this is second file..edited -->
+<!-- ..덮어씌워지는지 확인 -->
+<!-- auto merge?? -->
 
 
 </body>
