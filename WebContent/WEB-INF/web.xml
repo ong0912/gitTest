@@ -9,9 +9,7 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
     
-    <!-- edited from eclipse -->
-    <!-- edited from  -->
-    <!-- conflict solved -->
+    
     
   </welcome-file-list>
 </web-app>
