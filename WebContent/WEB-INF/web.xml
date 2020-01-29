@@ -9,7 +9,8 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
     
-    
+    <!-- my work... 덮어씌워져서 없어지는지 확인..추가 -->
+    <!-- 추가추가 -->
     
   </welcome-file-list>
 </web-app>
